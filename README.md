@@ -2,6 +2,8 @@
 
 This repo is likely going to die and instead give birth to making jQuery-esque plugins for AngularJS - like [angular-fancybox](https://github.com/kevinkirchner/angular-fancybox), [angular-cycle](https://github.com/kevinkirchner/angular-cycle), and [angular-carousel](https://github.com/kevinkirchner/angular-carousel)
 
+For a slideshow (jquery.cycle replacement) check out [Angular UI Bootstrap Carousel](http://angular-ui.github.com/bootstrap/#/carousel)
+
 See [what Igor Minar said about removing JQLite](https://plus.google.com/104744871076396904202/posts/EgjErc6NdrD)
 
 Here's [some more conversation about it on the AngularJS Google Group](https://groups.google.com/forum/?fromgroups=#!topic/angular/PPKd5vu6FYk)
